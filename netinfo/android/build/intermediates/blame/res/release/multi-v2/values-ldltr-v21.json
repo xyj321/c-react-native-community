@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/xyj/Desktop/pro/465/xyj-c-app/xyjMobile/node_modules/@react-native-community/netinfo/android/build/intermediates/res/merged/release/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/xyj/.gradle/caches/transforms-2/files-2.1/f5e449895472c51f076a5820f4b9afe7/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/xyj/Desktop/pro/465/xyj-c-app/xyjMobile/node_modules/@react-native-community/netinfo/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/xyj/.gradle/caches/transforms-2/files-2.1/f5e449895472c51f076a5820f4b9afe7/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

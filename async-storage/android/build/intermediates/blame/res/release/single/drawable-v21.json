@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/xyj/Desktop/pro/465/xyj-c-app/xyjMobile/node_modules/@react-native-community/async-storage/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/xyj/.gradle/caches/transforms-2/files-2.1/f5e449895472c51f076a5820f4b9afe7/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/xyj/Desktop/pro/465/xyj-c-app/xyjMobile/node_modules/@react-native-community/async-storage/android/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/xyj/.gradle/caches/transforms-2/files-2.1/f5e449895472c51f076a5820f4b9afe7/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/xyj/Desktop/pro/465/xyj-c-app/xyjMobile/node_modules/@react-native-community/async-storage/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/xyj/.gradle/caches/transforms-2/files-2.1/bf01701ec84e1e04be6eed26b9a64f71/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/xyj/Desktop/pro/465/xyj-c-app/xyjMobile/node_modules/@react-native-community/async-storage/android/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/xyj/.gradle/caches/transforms-2/files-2.1/f5e449895472c51f076a5820f4b9afe7/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/xyj/Desktop/pro/465/xyj-c-app/xyjMobile/node_modules/@react-native-community/async-storage/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/xyj/.gradle/caches/transforms-2/files-2.1/f5e449895472c51f076a5820f4b9afe7/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/xyj/Desktop/pro/465/xyj-c-app/xyjMobile/node_modules/@react-native-community/async-storage/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/xyj/.gradle/caches/transforms-2/files-2.1/f5e449895472c51f076a5820f4b9afe7/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]
